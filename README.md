@@ -11,5 +11,7 @@ bin - intersections - highest value for intersection - threshold - min val of in
 After averaging out the lines in the frame according to coordinates, capture is made and all def are applied in the end.
 
 ![obc](https://user-images.githubusercontent.com/57037068/86802102-b77fa280-c085-11ea-8853-0756f3278d8f.gif)
+# download the video file to work on from here:
+https://drive.google.com/file/d/1sMKoww4OcTLaN13xUdmSDXRK6b-rQfBY/view?usp=sharing
 
 
